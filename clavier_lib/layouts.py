@@ -1,4 +1,4 @@
-from clavier_lib.keyboard import Keyboard
+from .keyboard import Keyboard
 
 
 def load_qwerty(**kwargs):
